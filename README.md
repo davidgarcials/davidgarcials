@@ -23,6 +23,7 @@
 [![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org)
+[![GO](https://img.shields.io/badge/-go-45b8d8?style=flat&logo=go&logoColor=white)](https://go.dev/)
 
 ---
 
