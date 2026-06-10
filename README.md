@@ -14,6 +14,7 @@
 
 - 👨‍💻 Fullstack web developer
 - ⚡ Working every day with **JavaScript, TypeScript and Node.js**
+- 🤖 I leverage **AI** in my daily workflow to build faster and smarter
 - 🌱 Always learning and improving my skills
 - 💬 Ask me about web development, APIs and frontend architecture
 
